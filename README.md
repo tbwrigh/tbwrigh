@@ -7,9 +7,9 @@
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-<p>
+<!-- <p>
 <img align="left" height="180vh" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tbwrigh&show_icons=true&locale=en&theme=tokyonight" alt="tbwrigh" />
 <img align="left" height="180vh" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tbwrigh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tbwrigh" />
 </p>
 <!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tbwrigh&theme=tokyonight" alt="tbwrigh" />
- -->
+ --> -->
